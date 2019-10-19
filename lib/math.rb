@@ -20,5 +20,5 @@ end
 
 def square_root(num)
   num = CMath.sqrt(num)
-  returns num
+  return num
 end
